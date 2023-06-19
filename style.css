@@ -1,0 +1,27 @@
+.myprofile {
+    display: flex;
+}
+#Author {
+    padding-left: 10px;
+    padding-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    padding-left: 100px;
+    color: #000000;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 190px;
+}
+.navbutton {
+    display: flex;
+    background-color: aqua;
+
+}
+body {
+    background: linear-gradient(rgba(0,0,0,0.5), #009800), url(./IMG-20220521-WA0005.jpg);
+    background-repeat: no-repeat;
+    min-height: 800px;
+    position: relative;
+}
